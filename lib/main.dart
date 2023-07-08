@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Word Match App'),
         ),
-        body: Center(child: Text('Hello world')),
+        body: Center(child: Text('Hello world')), // Body
       ),
     );
   }
